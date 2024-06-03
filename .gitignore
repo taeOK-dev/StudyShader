@@ -3,3 +3,4 @@ Project/Logs
 *.csproj
 Project/.vsconfig
 Project/Project.sln
+Project/Temp
