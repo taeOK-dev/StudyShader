@@ -1,0 +1,9 @@
+﻿<linker>
+      <assembly fullname="System">
+		  <type fullname="System.ComponentModel.DoubleConverter" preserve="all"/>
+		  <type fullname="System.Buffers" preserve="all"/>
+		  <type fullname="System.Memory" preserve="all"/>
+		  <type fullname="System.Runtime.CompilerServices.Unsafe" preserve="all"/>
+	  </assembly>
+	<assembly fullname="Microsoft.Extensions.ObjectPool" preserve="all"/>
+</linker>
