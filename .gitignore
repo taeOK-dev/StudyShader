@@ -1,0 +1,5 @@
+﻿Project/Library
+Project/Logs
+*.csproj
+Project/.vsconfig
+Project/Project.sln
