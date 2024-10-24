@@ -663,8 +663,8 @@
     "m_ObjectId": "7474b13935714280b1480ae69019ae76",
     "m_Title": "컬러 조합",
     "m_Position": {
-        "x": 10.0,
-        "y": 10.0
+        "x": -903.3334350585938,
+        "y": -244.0
     }
 }
 
@@ -1085,7 +1085,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -1162,6 +1162,9 @@
     "m_AlphaClip": false,
     "m_CastShadows": true,
     "m_ReceiveShadows": true,
+    "m_DisableTint": false,
+    "m_AdditionalMotionVectorMode": 0,
+    "m_AlembicMotionVectors": false,
     "m_SupportsLODCrossFade": false,
     "m_CustomEditorGUI": "",
     "m_SupportVFX": false
@@ -1328,8 +1331,8 @@
     "m_ObjectId": "e9df1b8d3edf4d6890ebb642ba17a124",
     "m_Title": "숫자 조합",
     "m_Position": {
-        "x": 10.0,
-        "y": 10.0
+        "x": -598.6666870117188,
+        "y": 138.66668701171876
     }
 }
 
